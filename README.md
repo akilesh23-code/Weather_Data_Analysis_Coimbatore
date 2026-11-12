@@ -77,9 +77,10 @@ month, so it describes what happened in October 2026 and does not show a long-te
 climate pattern.
 
 ## Files in this Repository
-- `weather analysis.ipynb`: full code, outputs and graphs
-- `weather raw data.csv`: raw data downloaded from Open-Meteo
-- `coimbatore_oct2026.xls` and `cleaned_weather_data.xls`: data files used and produced by the notebook
+## Files in this Repository
+- `weatheranalysis.ipynb`: full code, outputs and graphs
+- `coimbatore_oct2026.csv`: raw daily weather data from Open-Meteo
+- `cleaned_weather_data.csv`: cleaned data produced by the notebook
 - `graph1_temperature_trend.png`, `graph2_trend_line.png`, `graph3_rain_temp.png`: saved graphs
 
 ## How to Run
